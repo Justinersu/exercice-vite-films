@@ -1,0 +1,9 @@
+@use 'partials/top-picks';
+@use 'partials/series-tele-films';
+@use 'partials/variables';
+
+body {
+    //--- 2 ---
+    background-color: variables.$primary;
+    //--- 2 ---
+}
